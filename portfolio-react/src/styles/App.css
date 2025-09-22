@@ -483,11 +483,36 @@
 
 .contact-form .form-control:focus {
   box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
+  outline: none;
+  border-color: var(--skin-color);
+}
+
+.contact-form .form-control.error {
+  border-color: #dc3545;
+  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25);
 }
 
 .contact-form textarea.form-control {
   height: 140px;
   resize: none;
+  padding-top: 15px;
+}
+
+.error-message {
+  color: #dc3545;
+  font-size: 14px;
+  margin-top: 5px;
+  display: block;
+}
+
+.btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.btn:disabled:hover {
+  transform: none;
 }
 
 /* Responsive Design */
