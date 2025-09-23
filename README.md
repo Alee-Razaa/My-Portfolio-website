@@ -2,11 +2,11 @@
 
 > Transforming ideas into exceptional digital experiences through modern web development
 
-Welcome to my digital portfolio! I'm Ali Raza Memon, a passionate **Front-End Developer** based in Karachi, Pakistan, specializing in creating stunning, user-friendly web applications that make a lasting impact.
+Welcome to my digital portfolio! I'm Ali Raza Memon, a passionate **Full-Stack AI Developer** based in Sukkur, Pakistan, specializing in creating stunning, user-friendly AI-Automation applications that make a lasting impact.
 
 ## 🌟 About Me
 
-I'm a dedicated developer who believes in the power of clean code, beautiful design, and seamless user experiences. With expertise in modern web technologies, I craft digital solutions that not only look exceptional but perform flawlessly across all devices.
+I'm a dedicated developer who believes in the power of data driven solutions, beautiful designs, and seamless user experiences. With expertise in AI driven applications, I craft digital solutions that not only automate but also generate lead with altimate customer staisfaction.
 
 **What drives me:**
 - 💡 **Innovation**: Always exploring the latest technologies and best practices
@@ -17,12 +17,25 @@ I'm a dedicated developer who believes in the power of clean code, beautiful des
 ## 💼 Services & Expertise
 
 ### 🎯 **Frontend Development**
+- **AI/ML/D** applications that automate workflow, predict latest trands and perform in realtime. 
+- **Seemless integration** that works beautifully on all devices and platforms
+- **Performance Optimization** for lightning-fast loading times and realtime response
+- **Modern design** with minimal, clean, and cutting-edge design layouts
+
+### 🎯 **Frontend Development**
 - **React.js** applications with modern hooks and state management
 - **Responsive Web Design** that works beautifully on all devices
 - **Performance Optimization** for lightning-fast loading times
 - **Modern CSS** with animations, transitions, and cutting-edge layouts
 
-### 🛠️ **Technical Skills**
+### 🛠️ **Web development Skills**
+- **Languages**: Oop Python programming, advance Python [Numpy, Pandas, Sickit-learn],
+- **Frameworks**: Tensorflow, Pytorch
+- **Tools**: Google Collab, , Kaggle, 
+- **Design**: Responsive Design, UI/UX Principles, Font Awesome
+- **Performance**: Code Optimization, Bundle Analysis, SEO
+
+### 🛠️ **Web development Skills**
 - **Languages**: JavaScript (ES6+), HTML5, CSS3
 - **Frameworks**: React 18, Vite
 - **Tools**: Git, VS Code, NPM, ESLint
@@ -139,9 +152,9 @@ I'm always excited to work on new projects and help bring your digital vision to
 
 ### 🌐 **Connect With Me**
 
-- 📧 **Email**: [ali.raza.dev@email.com](mailto:ali.raza.dev@email.com)
-- 🌍 **Location**: Karachi, Pakistan
-- 💼 **LinkedIn**: [Connect with me professionally](https://linkedin.com/in/aliraza-dev)
+- 📧 **Email**: [alirazamemon.bsaif22@iba-suk.edu.pk](mailto:alirazamemon.bsaif22@iba-suk.edu.pk)
+- 🌍 **Location**: Sukkur, Pakistan
+- 💼 **LinkedIn**: [Connect with me professionally](https://linkedin.com/in/realalirazamemon)
 - 🐙 **GitHub**: [Check out my code](https://github.com/Alee-Razaa)
 
 ### 📝 **Get In Touch**
