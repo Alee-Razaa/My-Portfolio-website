@@ -311,6 +311,9 @@
   transition: all var(--transition-normal);
   position: relative;
   z-index: 3;
+  /* Performance optimizations */
+  will-change: transform;
+  backface-visibility: hidden;
 }
 
 .home-section .home-img img:hover {
